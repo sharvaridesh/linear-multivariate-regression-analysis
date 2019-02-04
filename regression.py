@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# File: proj2_reg.py
+# File: regression.py
 # Author: Sharvari Deshpande <shdeshpa@ncsu.edu>
 
 import numpy as np
