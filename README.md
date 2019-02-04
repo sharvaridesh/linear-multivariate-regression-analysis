@@ -136,7 +136,7 @@ Hence, null hypothesis is rejected, and, regression coefficients are significant
 
 - Regression Plot
 
-![](https://github.com/sharvaridesh/Linear-Multivariate-Regression-Analysis/blob/master/results/higher order_regression%20fit.png) |
+![](https://github.com/sharvaridesh/Linear-Multivariate-Regression-Analysis/blob/master/results/higher%20order_regression%20fit.png) |
 |:--:|
 |*Regression Line*|
 
@@ -194,8 +194,9 @@ After removing the variables,
 |:--:|
 |*OLS Regression Results*|
 
+- p-value is approximately zero.
 - R^2 = 0.961
-- Theoretically, a good value for 𝑹𝟐 is when it is close to 1. The higher this value, better is the fit of the model. From the observed value, it can be said that, the fit of the model is a better fit than the model with all variables included.
+- Theoretically, a good value for R^2 is when it is close to 1. The higher this value, better is the fit of the model. From the observed value, it can be said that, the fit of the model is a better fit than the model with all variables included.
 - F-statistic is large. Therefore, it can be said that the fit of the user model is better than the intercept only model.
 
 Hence, null hypothesis is rejected.
