@@ -10,7 +10,7 @@ from scipy import stats
 import pylab
 
 #------------------------------------------Reading CSV File------------------------------------------#
-df = pd.read_csv('shdeshpa.csv',header=None)
+df = pd.read_csv('dataset_1.csv',header=None)
 print(df)
 
 #----------------------------------------------TASK 1-------------------------------------------------#
